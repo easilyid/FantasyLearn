@@ -1,0 +1,3 @@
+[submodule "Packages/Fantasy"]
+	path = Packages/Fantasy
+	url = https://github.com/qq362946/Fantasy.git
